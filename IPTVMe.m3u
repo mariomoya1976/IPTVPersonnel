@@ -1,0 +1,307 @@
+#EXTM3U
+#EXTINF:0 channelId="-1" tvg-logo="http://www.televisiongratis.com.ar/components/com_televisiongratis/images/canal-21-chillan-576.jpg" , Canal 21 Chillán
+http://v1.streaminglatinoamerica.com:1935/canal21ch/canal21ch/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://tecache.cl/wp-content/uploads/2012/08/La-Red-logo.png" group-title="�Chile�" , La Red
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png" group-title="�Chile�" , UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/TVN_HD_Chile.png/250px-TVN_HD_Chile.png" group-title="�Chile�" , TVN
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/ca/TVChile_logo.png/revision/latest?cb=20140110180102" group-title="�Chile�" , TVN Internacional
+http://edge-71-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/245px-2015megaoficial.png" group-title="�Chile�" , Mega
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Chvhd2015.png/245px-Chvhd2015.png" group-title="�Chile�" , CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/13hd.png/250px-13hd.png" group-title="�Chile�" , Canal 13 UC
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Canal13Chile-LogoV2-Cable.png/250px-Canal13Chile-LogoV2-Cable.png" group-title="�Chile�" , C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-AFN0OI-EuBo/VpZnq5N69pI/AAAAAAAAGbY/D1zogFVyAVE/s640/24horas%2Bhd%2Bfake.jpg" , FEED 24 Horas TVN
+http://edge-101-cl.edge.mdstrm.com/tvn-live/_definst_/smil:afb76bb126ed1661821563583d2c23f3/chunklist_b800000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-AFN0OI-EuBo/VpZnq5N69pI/AAAAAAAAGbY/D1zogFVyAVE/s640/24horas%2Bhd%2Bfake.jpg" , Canal 24 Horas TVN
+http://edge-11-entel.edge.mdstrm.com/tvn-live/_definst_/smil:b19cd9ff05e2134cadc1a2a49fbacbf3/chunklist_b800000.m3u8?time=1466110959502
+#EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-AFN0OI-EuBo/VpZnq5N69pI/AAAAAAAAGbY/D1zogFVyAVE/s640/24horas%2Bhd%2Bfake.jpg" , TELECANAL SD
+http://d1k8w635mcebvp.cloudfront.net/cl/smil:telecanal.smil/playlist.m3u8
+#EXTINF:0, COPA BICENTENARIO - ARENA SPORT 1
+#EXTGRP:autoupdate
+http://149.202.85.84:8080/arenaSp1-94506afdjklfg/local/index.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="http://graffica.info/wp-content/uploads/euro-2016-logo-04.jpg" group-title="FUTBOL PPV" , EUROCOPA - BEIN 1 FRANCIA
+http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="http://graffica.info/wp-content/uploads/euro-2016-logo-04.jpg" group-title="FUTBOL PPV" , EUROCOPA - BEIN 2 FRANCIA
+http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="http://graffica.info/wp-content/uploads/euro-2016-logo-04.jpg" group-title="FUTBOL PPV" , EUROCOPA - SUPER SPORTS 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://3.bp.blogspot.com/-uRCupzhitM0/UgVXMVeNVaI/AAAAAAAAFds/IJx_CDg-INw/s1600/475140_10150594533767204_637551787_o.jpg" group-title="�Chile�" , Canal 9 Bio Bio Concepción
+http://movilstream.digitalproserver.com/c9//c9.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVUConcepcionLogo.png/300px-TVUConcepcionLogo.png" group-title="�Chile�" , TVU Concepción
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://media.digitalproserver.com/source/vod_gen/Logo_player_bbtv.jpg" group-title="�Chile�" , BioBioChile TV
+http://wow2.cl.digitalproserver.com/bbtvscl/bbtvsclvivo/mp4:livestream1/bbtvchile.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.agendachilena.cl/wp-content/uploads/2016/06/radio-adn.png" group-title="�Chile�" , ADN Radio Chile TV
+http://movilstream.digitalproserver.com/adn/adnvivo/mp4:livestream1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://raw.githubusercontent.com/teran91/IPTVChile/master/TvLogo/logocdo.png" group-title="NACIONALES" , CDO HD
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png�" group-title="�Chile�" , ANTENA 3 ESP
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/arica_zpssvguoat9.png�" group-title="�Chile�" , La Sexta ESPAÑA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png�" group-title="�Chile�" , 24H TVE ESPAÑA
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/dch_tv_cl_zpsekztvb2k.png�" group-title="�Chile�" , Russia Today RUSIA(ESP)
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/vive_zpsb7x15dmx.png�" group-title="�Chile�" , C5N ARGENTINA
+http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Logo_Azteca_13_HD_2014.svg/2000px-Logo_Azteca_13_HD_2014.svg.png" group-title="�Chile�" , Azteca Trece MEX
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://i.ytimg.com/vi/ifr-ckA35Yo/maxresdefault.jpg" , TyC Sports ARG
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish4/kLive/smil:1_3j5azqiu_all.smil/32/chunklist.m3u8
+#EXTINF:-1 channelId="-1" group-title="�Chile�" , ZONASPORTS
+http://208.75.225.28:1935/live/zonitax1/chunklist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="Az Noticias" group-title="NOTICIAS" , Az Noticias MEX
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="-1" , SKY NEWS UK
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8?token=20160125x2h5fruwen3Pateth
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/morrovision_zpsgualkdpl.png�"
+group-title="�Chile�" , Morro Visión Arica
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/cap_zpsaosigst3.png�" group-title="�Chile�" , Cappissima Multimedial Arica
+http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/antofagasta_tv_cl_zps9q2wlmjw.png�" group-title="�Chile�" , Antofagasta Tv Antofagasta
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-holvoet_zpsox7uxnwt.png�" group-title="�Chile�" , Holvoet Copiapo
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/tv33_zpsmb5drfvg.png�" group-title="�Chile�" , TV33 Copiapo
+http://192.186.154.195:80/mcopiapo/tdq7m.sdp/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/choapa_zpsxqzh3jpt.png�" group-title="�Chile�" , Choapa Tv Canal 2 Illapel
+http://wow2.cl.digitalproserver.com/tv2/tv2vivo/tv2.smil/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/tele%208%20illapel_zpstk0q9pzl.png�" group-title="�Chile�" , Tele 8 Illapel
+http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/ultravision_zpsmgbfcegd.png�" group-title="�Chile�" , Ultravision Los Vilos
+http://iphone-streaming.ustream.tv/ustreamVideo/13961215/streams/live/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/canal5_linares_cl_zpsodoukjle.png�" group-title="�Chile�" , TV5 Linares
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/telecanal_cl_zpsdazlzkau.png�" group-title="�Chile�" , Telecanal Santa Cruz
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/telecanal_cl_zpsdazlzkau.png�" group-title="�Chile�" , Telecanal Curico
+http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png�" group-title="�Chile�" , VTV  Señal Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png�" group-title="�Chile�" , VTV Señal Valparaiso - Viña del Mar
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/canal2_zpsiwfsrgy0.png�" group-title="�Chile�" , TN Todo Noticias ARG
+http://stream.tn.com.ar/live/tnhd1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/camara%20dipi_zpsnmwwmqq7.png�" group-title="�Chile�" , Camara de Diputados Valparaiso
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
+#EXTINF:-1 channelId="2567" , Tv Senado
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/sporting_zpsbqeg5in1.png�" group-title="�Chile�" , Sporting Tv Valparaiso
+http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/sexta_zpssstx7vmz.png�" group-title="�Chile�" , SextaVision Rancagua
+http://scl.streaminghd.cl/8028/8028/chunklist_w1777070189.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/tumblr_inline_mmsyp4OxUu1qz4rgp_zpsas2q2vil.png�" group-title="�Chile�" , Fail Army Santiago
+http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/agro_zpszhznrscr.png�" group-title="�Chile�" , Agro Tv Santiago
+http://v2movil.tustreaming.cl/tustreaming/live4/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/maipu_zpsh675y8t4.png�" group-title="�Chile�" , Maipu Television
+http://movilstream.digitalproserver.com:1935/maipu/maipuvivo/mp4:livestream2/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/inde_zpsxkru671e.png�" group-title="�Chile�" , Independencia Tv Santiago
+http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/laflo_zpsiiadsad8.png�" group-title="�Chile�" , La Florida Tv Santiago
+http://190.107.176.167:1935/live/la-florida-tv/chunklist_w1951352505.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/graneros%20tv_zpsup0mp2j1.png�" group-title="�Chile�" , Graneros Television Santiago
+http://movilstream.digitalproserver.com:1935/graneros/granerosvivo/graneros.smil/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/ibs_zpssp9xnbtd.png�" group-title="�Chile�" , ISB San Bernardo Santiago
+http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/pra_zpsxcgxmiie.png�" group-title="�Chile�" , Pura Noticia Tv Santiago
+http://movilstream.digitalproserver.com/puranoti/puranotivivo/puranoti.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/Liv_TV_logo.svg_zpscpvmqxop.png�" group-title="�Chile�" , Liv Tv Santiago
+http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/logo1_zpskeh6nk1u.png�" group-title="�Chile�" , Fm Hot Tv Santiago
+http://190.107.176.167:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/32679_zpskreromvk.png�" group-title="�Chile�" , PortalFoxMix Tv Santiago
+http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/logo_head_zps7e04gkdx.png�" group-title="�Chile�" , NIU Tv Santiago
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/uestv_zps6rhz9hno.png�" group-title="�Chile�" , Uestv Santiago
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sentildealuv_zpsyc3mmrcp.png" group-title="�Chile�" , Señal Uc Santiago
+http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/cesfam_zpsniwj8tf4.png�" group-title="�Chile�" , Cesfam Santiago
+http://evo.eltelon.com:443/live/cesfamtv/chunklist_w781127916.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/Logotipo_TVO_San_Vicente_zpslsws5ap0.png�" group-title="�Chile�" , TVO San Vicente de tagua Tagua
+http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/cnc_zpsdful5w9u.png�" group-title="�Chile�" , CNC Colchagua Santa Cruz
+http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/campus_zps8hgdc5lg.png�" group-title="�Chile�" , Campus Tv Talca
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png" group-title="�Chile�" , Contivision Constitución
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png�" group-title="�Chile�" , Contivision Musica Constitucion
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/ncc_zpsetirncdh.png�" group-title="�Chile�" , NCC Tv Tome
+http://evo.eltelon.com:1935/live/ncc-tv/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/etg_zpsupswvbid.png�" group-title="�Chile�" , Etchegoyen Tv Talcahuano
+http://movilstream.digitalproserver.com:1935/etgtv/etgtvvivo/livestream1/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/dina_zpshgnxt8vg.png�" group-title="�Chile�" , Dinamica Tv Coronel
+http://evo.eltelon.com:1935/live/dinamica-television/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-tv4lota_zps1hymhpeo.png" group-title="�Chile�" , Tv 4 Lota
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://tvonlinegratis.com/wp-content/uploads/2014/08/UA-Television-Logo-300�300.jpg�" group-title="�Chile�" , Universidad Autonoma Temuco
+http://wow2.cl.digitalproserver.com/uautonoma/uautonomavivomp4:livestream1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tectv_zpsqqgbih8g.png" group-title="�Chile�" , TEC Television Temuco
+http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/atv_valdivia_cl_zpsgmzz36y8.png�" group-title="�Chile�" , Atv Valdivia
+http://190.107.176.167:1935/live/atv-valdivia/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/cool%20tv_zpswzj5wmyk.png�" group-title="�Chile�" , Cool Tv Valdivia
+http://iphone-streaming.ustream.tv/uhls/5383481/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/inettv_zpsl8vzhgko.png�" group-title="�Chile�" , Inet 2 Tv Osorno
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/canal5_zpsy1rplyz7.png�" group-title="�Chile�" , Canal 5 Puerto Montt
+http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/rocco_zpsjjszbdd5.png�" group-title="�Chile�" , Rocco Tv Coyhaique
+http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/santa%20maria_zpsxfn6hfkf.png�" group-title="�Chile�" , Santa Maria Tv Coyhaique
+http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/itv_patagonia_cl_zps3yvz2vwm.png" group-title="�Chile�" , ITV Punta Arenas
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/el_pinguino_cl_zpsvhkttrc0.png�" group-title="�Chile�" , El Pinguino Tv Punta Arenas
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/umag_zpsijajqcz3.png�" group-title="�Chile�" , UMAG Tv Universidad de Magallanes Punta Arenas
+http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�https://pbs.twimg.com/profile_images/550353471044464640/HUBCULy7.jpeg�" group-title="�Chile�" , Movistar TV
+http://edge-91-cl.edge.mdstrm.com/live/smil:a13c0b73f7e8de9af769b19520201b07/playlist.m3u8?
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/sobe_zpsgqbxhurc.png�" group-title="�Chile�" , Canal 26 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1888852998_b2628000_sleng.m3u8
+#EXTINF:-1 channelId="-1" , TVP Televisión Pública ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
+#EXTINF:-1 channelId="-1" , NHK World JAPAN
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:-1 channelId="363" , Al Jazeera News
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:-1 channelId="-1" , ABC News EE.UU.
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 channelId="-1" , Radio Imagina
+http://77.67.109.164/IMAGINA_SC
+#EXTINF:-1 channelId="-1" tvg-logo="https://parkourschoolchile.files.wordpress.com/2013/04/logo_radio_biobio.jpg" , Radio Bío-Bío
+http://tunein.digitalproserver.com/biostgobb.aac
+#EXTINF:-1 channelId="-1" , 2DF DEUTSCHLAND
+http://live-1273.fra.edge.filmon.com/live/2759.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8580a5305f281d5597b3931a0294405aad7a21ea0f2b5bd0e3a29d6756b2f88222df2f029ac4889ceb092904668952208b45e44747610ccc074ab2fb2502b2614c6fc5c66ef1138458323a9e47987489ff064c47c38b6419b8d1725ac0d5623eefb577779fee003ef231823f841c3c23622cc6326bc246cde437beaeef91231e4de45eb59d8839783187ea282f988d3
+#EXTINF:-1 channelId="-1" , WEB DEL FUTBOL
+https://video08-lax.streamup.com/app/andreftuus-stream_aac/playlist.m3u8
+#EXTINF:-1 channelId="-1" aspect-ratio="16:9" , Canal de Las Estrellas SD MEX
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 channelId="120" , CNN International
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
+#EXTINF:-1 channelId="352" , Deutsche Welle
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:-1 channelId="-1" , TVE La 1 ESPAÑA
+http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="�http://i667.photobucket.com/albums/vv35/geneiptv/tv_red_cl_zpsbyvrtowk.png�" group-title="�Chile�" , TVE La 2 ESPAÑA
+http://www.iptvsaga.com/play/tv3/0018.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://yt3.ggpht.com/-NSs-ufs2ZJU/AAAAAAAAAAI/AAAAAAAAAAA/bb7gM6EYgns/s88-c-k-no/photo.jpg" , CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 channelId="527" , CNBC
+http://cp.dmbshare.net:8000/live/tufan/tufan/3301.m3u8
+#EXTINF:-1 channelId="1972" , CNN En Español
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+#EXTINF:-1 channelId="-1" , Discovery Channel MEX
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 channelId="-1" , BFMTV FRANCE
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8?videoId=1835105181001&lineUpId=&pubId=876450610001&playerId=1154506756001&affiliateId=&v=3.4.0&fp=MAC%2019%2C0%2C0%2C245&r=QHBHE&g=PGDBGHLQTHEA
+#EXTINF:-1 channelId="-1" , América TV EE.UU.
+http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Anime MEX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 channelId="-1" , RAI 1 ITALIA
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8
+#EXTINF:-1 channelId="-1" , SBS TV South Korea
+http://nlive.sbs.co.kr/sbsch6pc/sbs1ch61.stream/chunklist.m3u8?wowzasessionid=0&u=sbs&q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+#EXTINF:-1 channelId="-1" , TV5 Monde FRANCE
+http://62.65.140.151:80/session/d45a0d16-e446-11e5-a43c-005056bc1a52/nvnv5a/2/2006/index.m3u8
+#EXTINF:-1 channelId="-1" , FRANCE 24 FR
+http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+#EXTINF:-1 channelId="-1" , Imagina 88.1
+http://provisioning.streamtheworld.com/pls/IMAGINAAAC.pls
+#EXTINF:-1 channelId="-1" , Concierto 88.5
+http://provisioning.streamtheworld.com/pls/CONCIERTOAAC.pls
+#EXTINF:-1 channelId="-1" , Futuro 88.9
+http://provisioning.streamtheworld.com/pls/FUTUROAAC.pls
+#EXTINF:-1 channelId="-1" , Fox Sports 1 USA
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_564_av-p.m3u8
+#EXTINF:-1 channelId="-1" , Duna 89.7
+http://ice.digitalproserver.com/duna.mp3
+#EXTINF:-1 channelId="-1" , Canal 9 ARGENTINA
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+#EXTINF:-1 channelId="-1" , El Conquistador 91.3
+http://stream5.eltelon.com/el-conquistador-santiago.aac
+#EXTINF:-1 channelId="-1" , Latina TV PERÚ
+http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
+#EXTINF:-1 channelId="-1" , Agricultura 92.1
+http://tunein.digitalproserver.com/agc921bb.aac
+#EXTINF:-1 channelId="-1" , The Weather Channel USA
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 channelId="-1" , La Clave 92.9
+http://tunein.digitalproserver.com/laclavebb.aac
+#EXTINF:-1 channelId="-1" , Cooperativa 93.3
+http://tunein.digitalproserver.com/cooperativabb.aac
+#EXTINF:-1 channelId="-1" , Universo 93.7
+http://tunein.digitalproserver.com/universobb.aac
+#EXTINF:-1 channelId="-1" , Usach 94.5
+mms://158.170.20.250/Radio-Usach_FM-online
+#EXTINF:-1 channelId="-1" , Candela 95.3
+http://ice.digitalproserver.com/candelabb.aac
+#EXTINF:-1 channelId="-1" , FM Tiempo 95.9
+http://tunein.digitalproserver.com/fmtiempobb.aac
+#EXTINF:-1 channelId="-1" , Beethoven 96.5
+http://ice.digitalproserver.com/beethovenfm.aac
+#EXTINF:-1 channelId="-1" , Zero 97.7
+http://tunein.digitalproserver.com/zerobb.aac
+#EXTINF:-1 channelId="-1" , Carabineros 98.1
+mms://streaming.carabineros.cl/radio
+#EXTINF:-1 channelId="-1" , Carolina 99.3
+http://ice.digitalproserver.com/carolinafm.aac
+#EXTINF:-1 channelId="-1" , Bio Bio 99.7
+http://tunein.digitalproserver.com/biostgobb.aac
+#EXTINF:-1 channelId="-1" , Infinita 100.1
+http://tunein.digitalproserver.com/infinitabb.aac
+#EXTINF:-1 channelId="-1" , Paula 100.5
+http://ice.digitalproserver.com/paulafm.aac
+#EXTINF:-1 channelId="-1" , Play FM 100.9
+http://playfm.janus.cl/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Oasis 102.1
+http://oasisfm.janus.cl/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" , U de Chile 102.5
+http://stream.radio.uchile.cl/;stream/1
+#EXTINF:-1 channelId="-1" , Tele 13 Radio 103.3
+http://tele13radio.janus.cl/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" , Romantica 104.1
+http://tunein.digitalproserver.com/romanticabb.aac
+#EXTINF:-1 channelId="-1" , Armonia 104.5
+http://encoder.armonia.cl:2032/
+#EXTINF:-1 channelId="-1" , Disney 104.9
+http://sc.digitalproserver.com:9994/
+#EXTINF:-1 channelId="-1" , SonarFM 105.7
+http://sonarfm.janus.cl/live/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqSQWsbpqlHuHd82OGEKpFccUJOxXiLadPoecDM4H_Z-aV4pfFY-Et-VE" , ARD DEUTSCHLAND
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:-1 channelId="-1" , Al Hadath News
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8?v=2913751298
+#EXTINF:-1 channelId="-1" , BAND NEWS BRA
+http://evp.mm.uol.com.br:1935/band/bandnews/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.projectclub.ru/Anons-01/LifeNews-logo.gif" , Life News RUSSIA SD
+#EXTBG:http://www.projectclub.ru/Anons-01/LifeNews-logo.gif
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://tvrain.ru/media/upload/images/quicksync/2014/08/31.07.07.jpg" , Life News RUSSIA HD
+#EXTBG:https://tvrain.ru/media/upload/images/quicksync/2014/08/31.07.07.jpg
+http://tv.life.ru/lifetv/720p/index.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c4/Tv_globo_internacional_2008.jpg/revision/latest?cb=20140406193312" , TV GLOBO BRASIL
+http://31.204.150.39:8081/live/globok/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.dennisredmont.com/site/wp-content/uploads/2014/07/rainews24.jpg" , RAI News Italia
+http://rm-edge-1.cdn.streamago.tv:1935/streamagoedge/1917/810/live.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.thebaron.info/assets/logos/reuters-tv-banner.jpg" , Reuters
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
+#EXTINF:-1 channelId="-1" , RTL 9 FRANCE
+http://iptvbox.noip.us:9998/live/atik/atik/278.m3u8
+#EXTINF:0 channelId="255" , AZTECA 7
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-p.m3u8?sd=10&rebase=on
